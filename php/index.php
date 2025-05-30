@@ -10,3 +10,10 @@
     
 </body>
 </html>
+
+<?php
+include('conexion.php');
+$insert = "INSERT INTO usuarios (nombre,cedula) VALUES ('pepito','123453')";
+mysqli_query($conn,$insert);
+
+?>
