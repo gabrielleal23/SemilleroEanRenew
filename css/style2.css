@@ -37,10 +37,11 @@ body{
     
 }
 
+
 .form-container button:hover{
     background-color: #005baa;
     cursor: pointer;
-    color: #380f0f;
+    color: #ccc;
     
 }
 
@@ -49,14 +50,14 @@ body{
     text-align: center;
     margin-top: 5px;
     font-size: 16px;
-    color: #005baa;
+    color: #3bac53;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
 }
 
 .crear-cuenta:hover {
-    color: #003f7f;
+    color: #3bac53;
     text-decoration: underline;
 }
 
